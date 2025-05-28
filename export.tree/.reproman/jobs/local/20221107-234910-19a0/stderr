@@ -1,0 +1,7 @@
+Warning: Permanently added 'c170-071' (ED25519) to the list of known hosts.
+WARNING (11/08/22 01:05:58): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4980201.hostlist.NYll8yH4 to get hosts
+starting job on c170-071
+starting job on c170-213
+starting job on c171-121
+starting job on c173-133
